@@ -99,3 +99,4 @@ instance/*
 .webassets-cache
 .env
 venv
+.flaskenv
