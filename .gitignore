@@ -94,9 +94,8 @@ appengine_config.py
 # Edit at https://www.toptal.com/developers/gitignore?templates=flask
 
 ### Flask ###
-instance/*
-!instance/.gitignore
 .webassets-cache
 .env
 venv
 .flaskenv
+migrations
